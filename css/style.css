@@ -9,8 +9,8 @@ section p {
 }
 section h1 {
 	font: 32px 'Open Sans';
-	font-weight: bold;
-   color: red;
+	font-weight: bolder;
+   color: mediumaquamarine;
 }
 section p {
 	font: 16px 'Open Sans';
